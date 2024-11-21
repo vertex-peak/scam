@@ -1,2 +1,2 @@
-local Blacklisted = {"oopy", "poopyy"}
+local Blacklisted = {"opy", "poopyy", "testing123"}
 
